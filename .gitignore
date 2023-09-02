@@ -38,7 +38,7 @@ local.properties
 #
 node_modules/
 npm-debug.log
-yarn-error.log
+yarn/-error.log
 
 # fastlane
 #
@@ -66,3 +66,4 @@ yarn-error.log
 /coverage
 
 /android/app/build/
+.yarn
